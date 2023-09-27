@@ -15,9 +15,9 @@ Having used tables for data-driven testing, the next step is to either use funct
 
 3. To run all the tests for a given feature, click 'Run' at the top of the file. For example, to run all tests in the json-crud.feature file, click 'Run' at the top:
 
-        ![Screenshot of feature file showing the Run link at the top](/feature-run-img.png?raw=true)
+   ![Screenshot of feature file showing the Run link at the top](/feature-run-img.png?raw=true)
 
 
 4. To run the test for a given Scenario, click 'Run' just above the 'Scenario'/'Scenario Outline' keyword. For example to run the test that verifies no response is received from a GET request with illegal query parameters, click 'Run' above:
 
-        ![Screenshot of feature file showing the Run link above a Scenario](/scenario-run-img.png?raw=true)
+   ![Screenshot of feature file showing the Run link above a Scenario](/scenario-run-img.png?raw=true)
